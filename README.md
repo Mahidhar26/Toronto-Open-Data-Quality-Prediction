@@ -41,7 +41,7 @@ After cleaning, the final working dataset contained **55,748** high-quality rows
 
 ---
 
-## 🧠 Modeling Techniques Used
+## Modeling Techniques Used
 
 ### 1. Multinomial Logistic Regression
 
