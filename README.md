@@ -92,6 +92,20 @@ After cleaning, the final working dataset contained **55,748** high-quality rows
 * Trained Random Forest with **200 trees** and performed `mtry` tuning via cross-validation.
 * Exported the final dataset for Power BI dashboard integration.
 
+Dashboard
+
+The final cleaned and labeled dataset was exported as dataset_quality_powerbi.csv for integration into a Power BI dashboard. The dashboard allows users to:
+
+Filter and visualize dataset quality by service group
+
+Track grade distributions across departments (Gold, Silver, Bronze)
+
+Monitor trends in metadata, freshness, and completeness
+
+Highlight outliers and potential data quality risks
+
+This visual layer complements the predictive modeling work, offering a dynamic view of current quality and areas for improvement.
+
 ---
 
 ## Goals Achieved
