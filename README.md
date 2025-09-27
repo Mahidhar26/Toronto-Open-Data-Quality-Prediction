@@ -93,6 +93,7 @@ After cleaning, the final working dataset contained **55,748** high-quality rows
 * Exported the final dataset for Power BI dashboard integration.
 
 Dashboard
+![alt text](https://github.com/Mahidhar26/Toronto-Open-Data-Quality-Prediction/blob/main/outputs/Power%20BI%20snapshot.png)
 
 The final cleaned and labeled dataset was exported as dataset_quality_powerbi.csv for integration into a Power BI dashboard. The dashboard allows users to:
 
